@@ -305,7 +305,7 @@ class _MyHomePageState extends State<MyHomePage> {
         children: <Widget>[
           const SizedBox(height: 80),
           const Text(
-            '인스타그램',
+            '홍보 채널',
             style: TextStyle(
               fontSize: 24,
               fontWeight: FontWeight.bold,
